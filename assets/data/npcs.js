@@ -1,6 +1,6 @@
 // Editable character records. Keep this script before assets/js/archive.js.
 window.NPC_ARCHIVE_DATA = {
-  "title": "D&D 经典传奇 NPC 人设档案集",
+  "title": "DND经典传奇人物档案集",
   "subtitle": "基于 2024 版 D&D 规则与中文跑团社区共识 · 人类友好带团白皮书 (v1.0)",
   "guide": "【适用范围】 本文档专为人类地下城主（DM）带团阅读、角色代入及跑团圈内交流设计，完整收录了被遗忘的国度与多元宇宙 13 位经典传奇人物的立体人设档案。【三大板块】 每位人物严格遵循「形象层（名片定位）+ 灵魂层（性格触点）+ 演出层（台词与传奇边界）」九项立体结构，注重实质情境交互。【沉浸脱敏】 全文已对规则机制与第四面墙（CR、AC、DC、法术环阶数值）进行全面叙事化润色，兼具阅读趣味性与实战带团指导性。",
   "groups": [
