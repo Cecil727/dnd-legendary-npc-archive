@@ -1,0 +1,162 @@
+{
+  "frame_ratio": "832:1216",
+  "rendering": "CSS object-fit:cover; source files are copied unchanged",
+  "portraits": [
+    {
+      "id": 1,
+      "name": "瓦罗",
+      "file": "assets/images/official/01-volo.webp",
+      "source_file": "Volo-5e.webp",
+      "size": [
+        386,
+        520
+      ],
+      "sha256": "f902fd2347991bdc693f60ca208551f3a0140b8c1e07e55a2b6b3a6601ea3748",
+      "object_position": "50% 0%"
+    },
+    {
+      "id": 2,
+      "name": "杜尔南",
+      "file": "assets/images/official/02-durnan.webp",
+      "source_file": "Durnan-5e.webp",
+      "size": [
+        726,
+        1000
+      ],
+      "sha256": "6137bee519351b0e8b6f54978024ba7691c644cd6122467f460aa286b9299427",
+      "object_position": "50% 0%"
+    },
+    {
+      "id": 3,
+      "name": "伊尔明斯特",
+      "file": "assets/images/official/03-elminster.webp",
+      "source_file": "Elmisnter_5e.webp",
+      "size": [
+        371,
+        920
+      ],
+      "sha256": "6665a5cf80bf2646d04a8d8ac98f6bfdc243ae401ec2d2c2996a19acc20db9af",
+      "object_position": "50% 0%"
+    },
+    {
+      "id": 4,
+      "name": "魔邓肯",
+      "file": "assets/images/official/04-mordenkainen.webp",
+      "source_file": "Mordenkainen_VEoR.webp",
+      "size": [
+        796,
+        1084
+      ],
+      "sha256": "f7c3c1e3a0d0cff567b1714db19e51e56820386d01e42781910e2d7d2bf10f5d",
+      "object_position": "50% 0%"
+    },
+    {
+      "id": 5,
+      "name": "塔莎",
+      "file": "assets/images/official/05-tasha.webp",
+      "source_file": "Iggwilv-5e.webp",
+      "size": [
+        1700,
+        2196
+      ],
+      "sha256": "c54dd1f58a37d21ebe1ed29bfa74f227a7c15ec2ebfce27e34072b75c645b17c",
+      "object_position": "55% 0%"
+    },
+    {
+      "id": 6,
+      "name": "莱拉·银手",
+      "file": "assets/images/official/06-laeral-silverhand.webp",
+      "source_file": "Laeral-5e.webp",
+      "size": [
+        611,
+        1000
+      ],
+      "sha256": "9966c5b90d69c93591750f0a019ef4e7229335dffc74c810eb1a7d0dc8ca4184",
+      "object_position": "50% 0%"
+    },
+    {
+      "id": 7,
+      "name": "瓦婕拉·莎法尔",
+      "file": "assets/images/official/07-vajra-safahr.webp",
+      "source_file": "Vajra-5e.webp",
+      "size": [
+        400,
+        615
+      ],
+      "sha256": "8514457e72959bd9c4b4b90ac39bbb16f9d959a94252edd2073d3f07c560f238",
+      "object_position": "50% 0%"
+    },
+    {
+      "id": 8,
+      "name": "崔斯特",
+      "file": "assets/images/official/08-drizzt.webp",
+      "source_file": "Drizzt-5e.webp",
+      "size": [
+        573,
+        1000
+      ],
+      "sha256": "9640364f9e161b175ef3340cc8e46656d73fd218711633958cb9c30854fc3893",
+      "object_position": "50% 0%"
+    },
+    {
+      "id": 9,
+      "name": "明斯克与布布",
+      "file": "assets/images/official/09-minsc-and-boo.webp",
+      "source_file": "Minsc_and_Boo_CLB_alt.webp",
+      "size": [
+        1471,
+        2000
+      ],
+      "sha256": "51d65c8ea9903dfeb4ca847a785c2b1f9e6263739762c4907c02d6bad6ad021e",
+      "object_position": "45% 0%"
+    },
+    {
+      "id": 10,
+      "name": "范·里希腾",
+      "file": "assets/images/official/10-van-richten.webp",
+      "source_file": "Rictavio.webp",
+      "size": [
+        416,
+        1000
+      ],
+      "sha256": "922e6c9d5e4b23905a7a7b69b2d7fa4cd6fd1e8c677d92b389bd6e6f700396bb",
+      "object_position": "50% 0%"
+    },
+    {
+      "id": 11,
+      "name": "珊娜萨",
+      "file": "assets/images/official/11-xanathar.jpg",
+      "source_file": "Xanathar.jpg",
+      "size": [
+        1818,
+        1200
+      ],
+      "sha256": "086021f8d8a5da9242a159ea9e2b7c6a20051bdb8ccd564136eaa82051fa0e54",
+      "object_position": "100% 50%"
+    },
+    {
+      "id": 12,
+      "name": "施特拉德",
+      "file": "assets/images/official/12-strahd.webp",
+      "source_file": "Strahd-5e.webp",
+      "size": [
+        1024,
+        1428
+      ],
+      "sha256": "4ac18cac4342d80ac3cd581066b6e711528aa36f84f954342b3e5ab1a86eb6bc",
+      "object_position": "50% 0%"
+    },
+    {
+      "id": 13,
+      "name": "费兹本",
+      "file": "assets/images/official/13-fizban.jpg",
+      "source_file": "fizban-artwork.jpg",
+      "size": [
+        400,
+        500
+      ],
+      "sha256": "f2092f2ce4a44517a00fed01aee579b6c465378c10ba0f3a2e2e8d19fe2d5baa",
+      "object_position": "50% 0%"
+    }
+  ]
+}

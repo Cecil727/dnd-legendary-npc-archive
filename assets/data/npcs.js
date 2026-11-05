@@ -157,7 +157,10 @@ window.NPC_ARCHIVE_DATA = {
       ],
       "core": "一个把传奇气运全点在逃命和吹牛上、揣着空钱袋到处给冒险者发鬼屋地契的浮夸畅销书大忽悠。",
       "image": "assets/images/01-volo.webp",
-      "imageName": "帷幕_立绘_传奇NPC_01_瓦罗_v1.png"
+      "imageName": "帷幕_立绘_传奇NPC_01_瓦罗_v1.png",
+      "officialImage": "assets/images/official/01-volo.webp",
+      "officialImageName": "Volo-5e.webp",
+      "officialPosition": "50% 0%"
     },
     {
       "id": 2,
@@ -268,7 +271,10 @@ window.NPC_ARCHIVE_DATA = {
       ],
       "core": "守在通往深渊巨井旁擦着断肢魔剑的传奇退役老兵，用最冷淡的独词短句看尽两百年间无数冒险者的生死沉浮。",
       "image": "assets/images/02-durnan.webp",
-      "imageName": "帷幕_立绘_传奇NPC_02_杜尔南_v1.png"
+      "imageName": "帷幕_立绘_传奇NPC_02_杜尔南_v1.png",
+      "officialImage": "assets/images/official/02-durnan.webp",
+      "officialImageName": "Durnan-5e.webp",
+      "officialPosition": "50% 0%"
     },
     {
       "id": 3,
@@ -379,7 +385,10 @@ window.NPC_ARCHIVE_DATA = {
       ],
       "core": "叼着冒绿烟的海泡石烟斗、跑到玩家营地讨要红酒与奶酪的魔法女神头号代言人兼托瑞尔头号大家长。",
       "image": "assets/images/03-elminster.webp",
-      "imageName": "帷幕_立绘_传奇NPC_03_伊尔明斯特_v1.png"
+      "imageName": "帷幕_立绘_传奇NPC_03_伊尔明斯特_v1.png",
+      "officialImage": "assets/images/official/03-elminster.webp",
+      "officialImageName": "Elmisnter_5e.webp",
+      "officialPosition": "50% 0%"
     },
     {
       "id": 4,
@@ -490,7 +499,10 @@ window.NPC_ARCHIVE_DATA = {
       ],
       "core": "一个对“多元宇宙善恶收支平衡表”有着强迫症般执念、把自创冠名法术写进全宇宙教科书的冷傲光头大法师。",
       "image": "assets/images/04-mordenkainen.webp",
-      "imageName": "帷幕_立绘_传奇NPC_04_魔邓肯_v2.png"
+      "imageName": "帷幕_立绘_传奇NPC_04_魔邓肯_v2.png",
+      "officialImage": "assets/images/official/04-mordenkainen.webp",
+      "officialImageName": "Mordenkainen_VEoR.webp",
+      "officialPosition": "50% 0%"
     },
     {
       "id": 5,
@@ -601,7 +613,10 @@ window.NPC_ARCHIVE_DATA = {
       ],
       "core": "一个连深渊恶魔领主都敢用奥术法阵囚禁折服、用一口大坩埚炖煮世间一切禁忌与欢笑的百变魔女宗师。",
       "image": "assets/images/05-tasha.webp",
-      "imageName": "帷幕_立绘_传奇NPC_05_塔莎_v2.png"
+      "imageName": "帷幕_立绘_传奇NPC_05_塔莎_v2.png",
+      "officialImage": "assets/images/official/05-tasha.webp",
+      "officialImageName": "Iggwilv-5e.webp",
+      "officialPosition": "55% 0%"
     },
     {
       "id": 6,
@@ -712,7 +727,10 @@ window.NPC_ARCHIVE_DATA = {
       ],
       "core": "一位银发如瀑、卸下灭世法袍换上政务官礼服的千年女神选民，在波谲云诡的贵族议会与黑帮暗战中独力撑起剑湾最大都会的体面。",
       "image": "assets/images/06-laeral-silverhand.webp",
-      "imageName": "帷幕_立绘_传奇NPC_06_莱拉·银手_v1.png"
+      "imageName": "帷幕_立绘_传奇NPC_06_莱拉·银手_v1.png",
+      "officialImage": "assets/images/official/06-laeral-silverhand.webp",
+      "officialImageName": "Laeral-5e.webp",
+      "officialPosition": "50% 0%"
     },
     {
       "id": 7,
@@ -823,7 +841,10 @@ window.NPC_ARCHIVE_DATA = {
       ],
       "core": "一位深色皮肤、手握封印着六代前任灵魂的传奇黑杖的年轻女院长，在“史上最年轻首席法师”的耀眼光环下与内心的资历焦虑日夜角力。",
       "image": "assets/images/07-vajra-safahr.webp",
-      "imageName": "帷幕_立绘_传奇NPC_07_瓦婕拉·莎法尔_v1.png"
+      "imageName": "帷幕_立绘_传奇NPC_07_瓦婕拉·莎法尔_v1.png",
+      "officialImage": "assets/images/official/07-vajra-safahr.webp",
+      "officialImageName": "Vajra-5e.webp",
+      "officialPosition": "50% 0%"
     },
     {
       "id": 8,
@@ -934,7 +955,10 @@ window.NPC_ARCHIVE_DATA = {
       ],
       "core": "一袭绿斗篷立于北地风雪中、左手闪光右手冰亡、身伴黑豹关海法且常在篝火旁书写人生哲学独白的紫眼白发卓尔游侠。",
       "image": "assets/images/08-drizzt.webp",
-      "imageName": "帷幕_立绘_传奇NPC_08_崔斯特·杜垩登_v1.png"
+      "imageName": "帷幕_立绘_传奇NPC_08_崔斯特·杜垩登_v1.png",
+      "officialImage": "assets/images/official/08-drizzt.webp",
+      "officialImageName": "Drizzt-5e.webp",
+      "officialPosition": "50% 0%"
     },
     {
       "id": 9,
@@ -1045,7 +1069,10 @@ window.NPC_ARCHIVE_DATA = {
       ],
       "core": "一个脑袋挨过重击、嗓门震碎屋瓦、双手捧着一只小仓鼠却坚信它是“宇宙智慧结晶”并高呼“为了正义痛击邪恶”的光头猛男。",
       "image": "assets/images/09-minsc-and-boo.webp",
-      "imageName": "帷幕_立绘_传奇NPC_09_明斯克与布布_v1.png"
+      "imageName": "帷幕_立绘_传奇NPC_09_明斯克与布布_v1.png",
+      "officialImage": "assets/images/official/09-minsc-and-boo.webp",
+      "officialImageName": "Minsc_and_Boo_CLB_alt.webp",
+      "officialPosition": "45% 0%"
     },
     {
       "id": 10,
@@ -1156,7 +1183,10 @@ window.NPC_ARCHIVE_DATA = {
       ],
       "core": "一位背负着“挚爱必死”恶毒诅咒、不靠神力与高环奥术、仅凭一本解剖笔记与一箱白蜡木桩在恐怖迷雾中狩猎魔王的悲情老医生。",
       "image": "assets/images/10-van-richten.webp",
-      "imageName": "帷幕_立绘_传奇NPC_10_鲁道夫·范·里希腾_v1.png"
+      "imageName": "帷幕_立绘_传奇NPC_10_鲁道夫·范·里希腾_v1.png",
+      "officialImage": "assets/images/official/10-van-richten.webp",
+      "officialImageName": "Rictavio.webp",
+      "officialPosition": "50% 0%"
     },
     {
       "id": 11,
@@ -1267,7 +1297,10 @@ window.NPC_ARCHIVE_DATA = {
       ],
       "core": "一颗漂浮在深水城下水道王座上、十根眼柄戴满魔戒随时准备把叛徒轰成飞灰、却对着鱼缸里的小金鱼温柔呼唤“心肝宝贝”的癫狂黑道眼魔。",
       "image": "assets/images/11-xanathar.webp",
-      "imageName": "帷幕_立绘_传奇NPC_11_珊娜萨_v7.png"
+      "imageName": "帷幕_立绘_传奇NPC_11_珊娜萨_v7.png",
+      "officialImage": "assets/images/official/11-xanathar.jpg",
+      "officialImageName": "Xanathar.jpg",
+      "officialPosition": "100% 50%"
     },
     {
       "id": 12,
@@ -1378,7 +1411,10 @@ window.NPC_ARCHIVE_DATA = {
       ],
       "core": "一位端着红酒杯站在哥特古堡管风琴前、将整片迷雾疆域化作私人猎场、在优雅的贵族礼仪下掩藏着偏执占有欲与千年孤寂的吸血鬼暴君。",
       "image": "assets/images/12-strahd.webp",
-      "imageName": "帷幕_立绘_传奇NPC_12_施特拉德·冯·扎洛维奇_v1.png"
+      "imageName": "帷幕_立绘_传奇NPC_12_施特拉德·冯·扎洛维奇_v1.png",
+      "officialImage": "assets/images/official/12-strahd.webp",
+      "officialImageName": "Strahd-5e.webp",
+      "officialPosition": "50% 0%"
     },
     {
       "id": 13,
@@ -1489,7 +1525,10 @@ window.NPC_ARCHIVE_DATA = {
       ],
       "core": "一个穿着破洞鼠灰色法袍、连自己的帽子和火球术咒语都忘得一干二净、身边却永远跟着七只由远古金龙变形而成的金丝雀的糊涂老神仙。",
       "image": "assets/images/13-fizban.webp",
-      "imageName": "帷幕_立绘_传奇NPC_13_费兹本_v1.png"
+      "imageName": "帷幕_立绘_传奇NPC_13_费兹本_v1.png",
+      "officialImage": "assets/images/official/13-fizban.jpg",
+      "officialImageName": "fizban-artwork.jpg",
+      "officialPosition": "50% 0%"
     }
   ],
   "version": "1.0"
