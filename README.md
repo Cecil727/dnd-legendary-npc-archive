@@ -49,6 +49,12 @@ AI 肖像使用原始 832×1216 PNG 转为 WebP，保留原分辨率。伊尔明
 
 ## 许可与第三方权利
 
-本项目的原创代码及可授权的原创内容采用 [MIT License](LICENSE)。
+整理与创作：**且听沧海Cecil**。本站仓库：[Cecil727/dnd-legendary-npc-archive](https://github.com/Cecil727/dnd-legendary-npc-archive)。
 
-Noto Serif SC 字体继续遵循其 SIL Open Font License 1.1，详见 [字体许可证](assets/fonts/OFL.txt)。Dungeons & Dragons、D&D 及相关角色、世界设定、官方插画和商标的权利归各自权利人所有；官方图片不适用本项目 MIT 协议，该协议不改变或授予这些第三方权利。本项目是非官方社区参考资料，未获 Wizards of the Coast 认可或背书。部分素材版权归 Wizards of the Coast LLC 所有。© Wizards of the Coast LLC。
+档案文本结合官方设定与主流中文跑团社区解读进行文学再创作，供扮演参考，不应视为纯官方设定。
+
+本项目的原创代码及可授权的原创文本采用 [MIT License](LICENSE)。AI 肖像均由 AI 生成，作者可处分的权利以 [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.zh-hans) 开放；范围及说明见 [AI 肖像许可声明](AI-IMAGES-LICENSE.md)。角色、商标及其他第三方权利除外。
+
+官方插画版权归 Wizards of the Coast 及相应权利人所有，使用遵循其[《粉丝内容政策》](https://company.wizards.com/en/legal/fancontentpolicy)及原始来源说明；官方插画不适用本项目的 MIT 或 CC0 声明。Dungeons & Dragons、D&D 及相关角色、世界设定和商标的权利归各自权利人所有。本作是依《粉丝内容政策》发布的非官方粉丝内容，未经威世智批准或认可。部分素材版权归 Wizards of the Coast LLC 所有。© Wizards of the Coast LLC。
+
+Noto Serif SC 字体继续遵循其 SIL Open Font License 1.1，详见 [字体许可证](assets/fonts/OFL.txt)。

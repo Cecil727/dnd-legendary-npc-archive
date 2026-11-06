@@ -26,6 +26,12 @@
 .text-size{white-space:nowrap;padding:0;font-size:13px}
 .portrait-zoom img{height:auto}
 /* Both portrait editions share a 13:19 frame. Per-character focus preserves faces. */
+.page-footer{display:grid;grid-template-columns:minmax(210px,.7fr) minmax(0,2fr);align-items:start;gap:22px 34px;color:#665c49;padding:30px 48px;background:#e5d8bb33}
+.footer-heading{display:flex;align-items:center;gap:12px}.footer-heading svg{flex-shrink:0}.footer-heading>div{display:grid;gap:8px}.page-footer .footer-heading span{font-size:12px;letter-spacing:1px}.page-footer .footer-heading small{margin:0;font-size:10px;letter-spacing:1px}
+.footer-notices{min-width:0}.footer-notices p,.footer-credit p{margin:0;font-size:11px;line-height:1.95}.footer-notices p+p{margin-top:7px}.footer-notices strong{color:#514332;margin-right:9px;font-weight:600}.page-footer a{color:var(--wine);text-decoration:underline;text-decoration-color:#9c6c4866;text-underline-offset:3px}.page-footer a:hover{text-decoration-color:currentColor}.footer-credit{grid-column:1/-1;display:flex;justify-content:space-between;gap:10px 24px;flex-wrap:wrap;border-top:1px solid var(--line);padding-top:15px}.footer-credit a{display:inline-block;margin-left:18px}.footer-credit strong{font-weight:600}
+@media(max-width:900px){.page-footer{grid-template-columns:1fr;padding:25px 30px;gap:19px}.footer-credit{display:block}.footer-credit p+p{margin-top:7px}}
+@media(max-width:600px){.page-footer{padding:24px 20px;gap:17px}.page-footer .footer-heading span{font-size:11px}.footer-notices p,.footer-credit p{font-size:11px}}
+.page-footer{padding-bottom:76px}
 .portrait-switch{display:inline-flex;align-items:center;flex-shrink:0;padding:3px;gap:2px;border:1px solid #b3a07b;background:#e7dbc255;box-shadow:inset 0 0 0 1px #fff6}
 .portrait-switch button{min-height:30px;padding:5px 11px;font:11px var(--sans);color:#72654f;white-space:nowrap;transition:background .18s,color .18s}
 .portrait-switch button[aria-pressed=true]{background:var(--wine);color:#fff1d2;box-shadow:inset 0 0 0 1px #a2574544}
